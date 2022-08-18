@@ -34,7 +34,7 @@ Desktop design
 ### Links
 
 - Solution URL: [3-column preview card component solution]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
